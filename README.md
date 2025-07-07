@@ -1,4 +1,4 @@
-# TeXVision
+# TexVision
 
 
 *Automatic LaTeX Generation for Complex Mathematical Formulas*
@@ -31,7 +31,7 @@ TeXVision converts images of complex mathematical expressions—both printed and
 
    ```bash
    git clone https://github.com/kaustubhdeshmukh11/TexVision.git
-   cd texvision
+   cd TexVision
    ```
 2. **Setup environment**
 
