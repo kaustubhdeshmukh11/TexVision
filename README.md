@@ -21,9 +21,9 @@ TeXVision converts images of complex mathematical expressions—both printed and
 | Component | Details                                                      |
 | --------- | ------------------------------------------------------------ |
 | Backbone  | Qwen2-VL-7B (4-bit quantized)                                |
-| Adapter   | LoRA (dropout=0.1)                                           |
-| Dataset   | Unloth (printed & handwritten formulas)                      |
-| Training  | AdamW, lr=3e-5, cosine decay, 10 epochs, batch size=64, FP16 |
+| Adapter   | LoRA                                          |
+| Dataset   | Unsloth (printed & handwritten formulas)                      |
+
 
 ## 📦 Installation
 
